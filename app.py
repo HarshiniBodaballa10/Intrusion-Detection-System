@@ -390,7 +390,7 @@ def load_test_data():
             except:
                 continue
    
-    st.warning("Test dataset not found. Using sample data for demonstration.")
+    st.info("🔬 Running with demonstration data. Upload your own CSV for real analysis.")
     np.random.seed(42)
     n_samples = 500
    

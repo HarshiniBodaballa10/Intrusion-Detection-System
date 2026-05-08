@@ -220,38 +220,19 @@ AI-Intrusion-Detection-System/
 ## 📸 Dashboard Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard Overview](https://raw.githubusercontent.com/HarshiniBodaballa10/Intrusion-Detection-System/main/screenshots/dashboard_overview.png)
-
-*Real-time threat monitoring dashboard showing attack distribution and security insights.*
-
----
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### 🎯 Attack Prediction
-![Attack Prediction](https://raw.githubusercontent.com/HarshiniBodaballa10/Intrusion-Detection-System/main/screenshots/attack_prediction.png)
-
-*Upload CSV files and receive predictions with RAG context, LLM explanations, and XAI insights.*
-
----
+![Attack Prediction](screenshots/attack_prediction.png)
 
 ### 📈 Model Performance
-![Model Performance](https://raw.githubusercontent.com/HarshiniBodaballa10/Intrusion-Detection-System/main/screenshots/model_performance.png)
-
-*Compares Random Forest, XGBoost, and Decision Tree performance metrics.*
-
----
+![Model Performance](screenshots/model_performance.png)
 
 ### 📚 Attack Knowledge Base
-![Attack Knowledge Base](https://raw.githubusercontent.com/HarshiniBodaballa10/Intrusion-Detection-System/main/screenshots/attack_knowledge.png)
-
-*Searchable cybersecurity knowledge base with attack descriptions and mitigation guidance.*
-
----
+![Attack Knowledge Base](screenshots/attack_knowledge.png)
 
 ### 📋 Project Summary
-![Project Summary](https://raw.githubusercontent.com/HarshiniBodaballa10/Intrusion-Detection-System/main/screenshots/project_summary.png)
-
-*Displays system workflow, technologies used, and overall architecture.*
-
+![Project Summary](screenshots/project_summary.png)
 ---
 
 ## ⚙️ Installation & Setup

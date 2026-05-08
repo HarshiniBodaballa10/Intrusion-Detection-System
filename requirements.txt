@@ -1,12 +1,9 @@
 streamlit
 pandas
 numpy
+joblib
+matplotlib
+seaborn
+plotly
 scikit-learn
 xgboost
-joblib
-plotly
-sentence-transformers
-faiss-cpu
-transformers
-torch
-groq

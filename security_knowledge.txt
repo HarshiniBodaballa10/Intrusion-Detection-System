@@ -1,0 +1,27 @@
+DDoS Attack: Distributed Denial of Service attack aims to make a network service unavailable by overwhelming it with traffic from multiple sources.
+
+DoS Attack: Denial of Service attack targets a network service from a single source to exhaust resources and make it unavailable.
+
+Botnet Attack: A network of compromised IoT devices controlled by an attacker to perform coordinated attacks.
+
+Port Scan: An attempt by an attacker to find open ports and services in the target network to find vulnerabilities.
+
+Malware Injection: Injecting malicious code into IoT devices or network services to compromise integrity or steal data.
+
+ARP Spoofing: An attacker sends fake ARP messages in a LAN to associate their MAC with a victim IP, enabling data interception.
+
+Phishing Attack: A social engineering attack to trick users into revealing sensitive information such as credentials.
+
+Brute Force Attack: Automated attempt to guess passwords or keys by trying all possible combinations.
+
+SQL Injection: Injecting malicious SQL commands into vulnerable applications to access or manipulate databases.
+
+MITM Attack: Man-In-The-Middle attack where an attacker intercepts and potentially alters communication between two parties.
+
+Unauthorized Access: Any attempt to access network resources or devices without proper authorization.
+
+Sniffing Attack: Capturing and analyzing network packets to gather sensitive information.
+
+Replay Attack: Reusing captured network packets to trick a system into granting unauthorized actions.
+
+Privilege Escalation: Exploiting a vulnerability to gain higher access privileges than allowed.

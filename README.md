@@ -3,7 +3,7 @@
 ### Real-Time IoT Network Attack Detection using Machine Learning, RAG, LLM, and Explainable AI (XAI)
 
 [![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://intrusion-detection-system-4efexbxmbdytusnw7zjfgp.streamlit.app/)
-[![Github]https://github.com/HarshiniBodaballa10/Intrusion-Detection-System]
+
 
 > 🎯 **This project combines Machine Learning, RAG, LLM, and XAI to build
 > an intelligent IDS that doesn't just detect attacks — it explains them
